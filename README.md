@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## 3D Printing
 
-You can use the [editor on GitHub](https://github.com/shaheenhyderk/3D-printing.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<img src="https://shaheenhyderk.github.io/P1.jpg" width="700" height="400">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+On the this day, we had a session about basic 3D design, and we were used “Rhinoceros 3D” to design 3D models.You can use a y 3d designing software.After 3D Image design, A brief explanation about conversion of “model.stl format to model.gecode” using cura(Gecode Converter) was also given.After the session about the basics, the students were asked to design a simple 1cm x 1cm x 1cm block to be printed using the Ultimaker 2+ 3D Printer.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Steps to print
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+$ After 3D Image design,then extract to “model.stl" 
+$ Now open the "stl" file in cura
+$ Now select object as you want
+$ Now select save in the right bottom
+$ Now it will be "model.gecode
+$ Copy it into the printer
+$ Start printing
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shaheenhyderk/3D-printing.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## My First Printing
+ 
+ I designed a simple object.
+ 
+ <img src="https://
+ 
+ <img src="https://
+ 
+ ## Fidget Spinner
+ 
+ I was very happy by seeing this. I buy bearing from a nearby shop.
+ 
+ <img src="https://
+ 
+ #### Printing
+ 
+ <img src="https://shaheenhyderk.github.io/IMG_20170821_184232.jpg" width="500" height="500">
+ 
+ <img src="https://shaheenhyderk.github.io/IMG_20170821_184238.jpg" width="500" height="500"> 
+ 
+ #### After print
+ <img src="https://shaheenhyderk.github.io/IMG_20170821_184554.jpg" width="500" height="500"> 
+ 
+ #### Final view
+ <img src="https://shaheenhyderk.github.io/IMG_20170821_203123.jpg" width="500" height="500"> 
