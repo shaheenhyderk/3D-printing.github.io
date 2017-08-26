@@ -24,20 +24,4 @@ $ Start printing
  
  <img src="https://
  
- ## Fidget Spinner
- 
- I was very happy by seeing this. I buy bearing from a nearby shop.
- 
- <img src="https://
- 
- #### Printing
- 
- <img src="https://shaheenhyderk.github.io/IMG_20170821_184232.jpg" width="500" height="500">
- 
- <img src="https://shaheenhyderk.github.io/IMG_20170821_184238.jpg" width="500" height="500"> 
- 
- #### After print
- <img src="https://shaheenhyderk.github.io/IMG_20170821_184554.jpg" width="500" height="500"> 
- 
- #### Final view
- <img src="https://shaheenhyderk.github.io/IMG_20170821_203123.jpg" width="500" height="500"> 
+
