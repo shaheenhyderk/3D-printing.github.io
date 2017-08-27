@@ -24,16 +24,17 @@ $ Start printing
  
  <img src="https://shaheenhyderk.github.io/fi.jpg" width="500" height="300">
  
- #### Object in cura 
+ 
+#### Object in cura 
  
  <img src="https://shaheenhyderk.github.io/fc.jpg" width="500" height="300">
  
- #### After print
+#### After print
  
  <img src="https://shaheenhyderk.github.io/IMG_20170827_080000[1].jpg" width="500" height="300">
  
  
- ## Go To:
+## Go To:
  
  [<img src="http://shaheenhyderk.github.io/ho.png" width="75" height="75">](https://shaheenhyderk.github.io/)
  [<img src="http://shaheenhyderk.github.io/go.jpg" width="175" height="75">](http://shaheenhyderk.github.io/selfie.github.io/)
